@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- *
+ 
  * Return: Always
  */
 int main(void)
