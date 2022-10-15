@@ -1,20 +1,16 @@
 #include<stdio.h>
 
 /**
- * main - Alphabet in lowwer case
+ * main - Print the reverse alphabet
  *
+ 
  * Return: Always
  */
 int main(void)
 {
 	char c;
 
-	for (c = 'a'; c <= 'z'; c++)
-	{
-		putchar(c);
-	}
-
-	for (c = 'A'; c <= 'Z'; c++)
+	for (c = 'Z'; c >= 'a'; c--)
 	{
 		putchar(c);
 	}
