@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /*
- * main - assign a ramdom nu,ber to the variable n
+ * main - assign a random number to the variable n
  *
  * Return: Always
  */
