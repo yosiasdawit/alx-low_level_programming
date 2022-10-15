@@ -3,7 +3,6 @@
 /**
  * main - Print the reverse alphabet
  *
- 
  * Return: Always
  */
 int main(void)
